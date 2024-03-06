@@ -5,7 +5,7 @@ Yohan Dulac<sup>1</sup>, Richard G. Zytner<sup>2</sup>, Brienne R. Nelson<sup>3<
 1. University of Sherbrooke, Department of Civil and Building Engineering, Sherbrooke, Quebec, Canada, J1K 2R1
 2. University of Guelph, School of Engineering, Guelph, Ontario, Canada, N1G 2W1
 3. Dillon Consulting Ltd. (Formerly with University of Guelph), Canada
-* Corresponding author: Alexandre Cabral: alexandre.cabral@usherbrooke.ca
+/* Corresponding author: Alexandre Cabral: alexandre.cabral@usherbrooke.ca
 
 ## Abstract
 ***
